@@ -7,7 +7,7 @@ A simple and responsive Digital Clock built using HTML, CSS, and JavaScript. Thi
 ## 🌟 Live Demo
 
 👉 View Live Demo:
-`YOUR-LIVE-DEMO-LINK-HERE`
+https://roghayem.github.io/digital-clock/
 
 ---
 
