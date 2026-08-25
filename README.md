@@ -13,7 +13,7 @@ https://roghayem.github.io/digital-clock/
 
 ## 🖼️ Preview
 
-![Digital Clock Preview](YOUR-SCREENSHOT-LINK-HERE)
+![Digital Clock Preview](assest/Digital-Clock-08-25-2026_10_06_AM.png)
 
 ---
 
